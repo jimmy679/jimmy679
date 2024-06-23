@@ -17,7 +17,7 @@ Skills: C / CPP / Java / Spring / Mysql / Redis / SSM / RabbitMQ / HTML
 
 - 🔭 Currently working on a Sass Project  
 - 📫 Contact me: jimmy679aa@outlook.com
-- 🙂 Blog : https://notnoob.gitbook.io/welcome/
+- 🙂 Blog : www.jimmy679.top
 
 <p>
   <img style="width: 1000px;height: auto;max-height:100%;max-width:100%;" src="https://github-profile-trophy.vercel.app/?username=jimmy679&rank=A,B,C"/>
