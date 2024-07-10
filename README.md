@@ -13,7 +13,7 @@ Major on Cyber Security
 
 Working on Java Developing
 
-Skills: C / CPP / Java / Spring / Mysql / Redis / SSM / RabbitMQ / HTML
+Skills: C / CPP / Java / Spring / Mysql / Redis / Spring Cloud / RabbitMQ / HTML
 
 - 🔭 Currently working on a Sass Project  
 - 📫 Contact me: jimmy679aa@outlook.com
