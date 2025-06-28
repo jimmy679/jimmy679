@@ -13,10 +13,10 @@ Major on Cyber Security
 
 Working on Java Developing
 
-Skills: CPP / Java / Spring / Mysql / Redis / Spring Cloud 
+Skills: Go / Java / Spring / Mysql / Redis / Spring Cloud 
 
-- 🔭 Currently working on study Spring source codes  
-- 📫 Contact me: jimmy679aa@outlook.com
+- 🔭 Currently working at ByteDance 
+- 📫 Contact me: 1037892796@qq.com
 - 🙂 Blog : www.jimmy679.top
 
 <p>
