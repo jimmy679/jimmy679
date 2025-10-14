@@ -1,5 +1,4 @@
 <p align="center">
-  <img width="1000" src="https://typora11aa.oss-cn-beijing.aliyuncs.com/Snipaste_2024-01-30_14-33-55.png" />
   <h2 align="center">
  Jimmy
   </h2>
