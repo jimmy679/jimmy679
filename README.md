@@ -14,13 +14,13 @@
   
 #### 💼 Work Experience
 <p>
-<strong>KuaiShou</strong> -- <code>Comprehensive Support & Efficiency - Enterprise Applications </code> -- <code>2026.9 to Now.</code><br/>
+<strong>KuaiShou(OnBoarding)</strong> -- <code>Comprehensive Support & Efficiency - Enterprise Applications </code> -- <code>2026.9 to Now.</code><br/>
 </p>
   
 #### 👉🏻 Internship Experience
 
 <p>
-<strong>Bytedance</strong> -- <code>Douyin Life Service - Efficiency Platform</code> -- <code>2025.6 to 2025.9</code><br/>
+<strong>Bytedance</strong> -- <code>Douyin Life Service - Efficiency Platform</code> -- <code>2025.6 to 9.</code><br/>
 <strong>ByteDance</strong> -- <code>Data Platform - DataLeap</code> -- <code>2025.2 to 6.</code><br/>
 </p>
 
