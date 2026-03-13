@@ -1,18 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Jimmy679+AI+Full-Stack+Developer." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=---Hi,+I'm+Jimmy679+AI+Full-Stack+Developer--." alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>I'm currently looking for a full‑stack AI agent developer position.</strong>
+    <strong>I'm currently looking for a full‑stack AI agent / Backend developer position.</strong>
   </p>
 
   <p>
-    <code>🐼 Born 2004.04.11 · Chongqing, China.</code>
+    <code>🔥 Born 2004.04.11 · Chongqing, China.</code>
     <code>📍 Now Base in Beijing</code>
   </p>
 </div>
-<table>
-<tr>
-<td valign="top" width="50%">
+
   
 #### 💼 Work Experience
 <p>
@@ -26,5 +24,3 @@
 <strong>ByteDance</strong> -- <code>Data Platform - DataLeap</code> -- <code>2025.2 to 6.</code><br/>
 </p>
 
-</tr>
-</table>
