@@ -14,7 +14,7 @@
   
 #### 💼 Work Experience
 <p>
-<strong>KuaiShou(OnBoarding)</strong> -- <code>Integrated Support & Effclency Engineering</code> -- <code>2026.9 to Now.</code><br/>
+<strong>KuaiShou(OnBoarding)</strong> -- <code>Integrated Support & Effclency Engineering - Enterprice Applications</code> -- <code>2026.9 to Now.</code><br/>
 </p>
   
 #### 👉🏻 Internship Experience
